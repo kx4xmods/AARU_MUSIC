@@ -13,7 +13,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ixastamusicbot/ASTA_MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ixastamusicbot/AARU_MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <!--
 **ixastamusicbot/ASTA_MUSIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
